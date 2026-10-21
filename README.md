@@ -1,11 +1,11 @@
 <div align="center">
 
-  <img src="banner.svg" alt="Md. Salman Farsi, Full-Stack Web Engineer" width="100%" />
+  <img src="banner.svg" alt="Md. Salman Farsi, Full-Stack Web Developer" width="100%" />
 
   <br><br>
 
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&color=8A2BE2&lines=Hello+World!;Hi,+I'm+Salman+Farsi!;A+Passionate+CS+%26+Tech+Student;Exploring+Software+Development;Web+Development+%7C+Java+%7C+Python;UI%2FUX+Design+Enthusiast;Always+Learning+%26+Improving"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=750&height=70&duration=4000&color=8A2BE2&lines=Hi,+I'm+Salman+Farsi!;Full-Stack+Web+Developer;Building+clean,+user-focused+web+apps;with+React,+TypeScript,+Next.js+%26+MongoDB;Content+Creator;Always+Learning+%26+Building"/>
   </h1>
 
 </div>
@@ -14,7 +14,7 @@
 
 ## About Me
 
-I am a Full-Stack Web Engineer and Content Creator focused on building modern, scalable software solutions. 
+I am a Full-Stack Web Developer and Content Creator focused on building modern, scalable software solutions. 
 
 * **Current Focus:** Studying AI-Driven Full Stack Web Engineering at Programming Hero (Batch 14) and completing an industrial attachment in Front-End Development with React at Creative IT Institute.
 * **Background:** Completed a 4-year Diploma in Computer Science & Technology from Govt. Graphic Arts Institute, concluding with a capstone project called LibraSync (a smart RFID library system).
@@ -73,9 +73,10 @@ I am a Full-Stack Web Engineer and Content Creator focused on building modern, s
 ## Profile Visitors  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=salmansync&color=blue&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=salmansync&color=8A2BE2&style=for-the-badge" />
 </p>
 
 ---
+
 
  ⭐️ From [Salman](https://github.com/salmansync) — *Making ideas alive with code!*
