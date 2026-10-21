@@ -32,6 +32,8 @@ I am a Full-Stack Web Engineer and Content Creator focused on building modern, s
   <img src="https://skillicons.dev/icons?i=express,python,java,mongodb,github,git,vscode,arduino" />
 </div>
 
+<br>
+
 ---
 
 ## Connect with Me  
@@ -76,5 +78,4 @@ I am a Full-Stack Web Engineer and Content Creator focused on building modern, s
 
 ---
 
-  ⭐️ From [Salman](https://github.com/salmansync) — *Making ideas alive with code!*
-
+ ⭐️ From [Salman](https://github.com/salmansync) — *Making ideas alive with code!*
