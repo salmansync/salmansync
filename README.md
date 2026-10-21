@@ -1,11 +1,9 @@
 <div align="center">
 
-  <!-- New Dynamic Violet Cyber Banner -->
   <img src="banner.svg" alt="Md. Salman Farsi, Full-Stack Web Engineer" width="100%" />
 
   <br><br>
 
-  <!-- Header Typing SVG -->
   <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&color=8A2BE2&lines=Hello+World!;Hi,+I'm+Salman+Farsi!;A+Passionate+CS+%26+Tech+Student;Exploring+Software+Development;Web+Development+%7C+Java+%7C+Python;UI%2FUX+Design+Enthusiast;Always+Learning+%26+Improving"/>
   </h1>
@@ -14,24 +12,29 @@
 
 ---
 
-## 🚀 About Me
-- 🔭 Currently working on *exciting projects in software development*.  
-- 🌱 Continuously learning *Python, Java, Web Development, and AI*.  
-- 🌐 Recently building *modern, responsive web projects* (portfolio sites, agency websites).  
-- 🎯 Passionate about *problem-solving, full-stack development, and open source*.  
-- 📫 Reach me: *[salmansync.now@gmail.com](mailto:salmansync.now@gmail.com)*  
-- ⚡ Fun fact: *I’m a big fan of Isekai anime 🌏✨*  
+## About Me
+
+I am a Full-Stack Web Engineer and Content Creator focused on building modern, scalable software solutions. 
+
+* **Current Focus:** Studying AI-Driven Full Stack Web Engineering at Programming Hero (Batch 14) and completing an industrial attachment in Front-End Development with React at Creative IT Institute.
+* **Background:** Completed a 4-year Diploma in Computer Science & Technology from Govt. Graphic Arts Institute, concluding with a capstone project called LibraSync (a smart RFID library system).
+* **Continuous Learning:** Expanding expertise in Python, Java, modern Web Development, and AI integration tools.
+* **Content Creation:** Managing the tech review and tutorial YouTube channel, Sunixzo.
+* **Contact:** [salmansync.now@gmail.com](mailto:salmansync.now@gmail.com)
 
 ---
 
-## 💻 Tech Stack  
+## Tech Stack  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,nodejs,express,python,java,github,git,vscode,arduino" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,nextjs,nodejs" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=express,python,java,mongodb,github,git,vscode,arduino" />
+</div>
 
+---
 
-## 🌐 Connect with Me  
+## Connect with Me  
 
 <p align="center">
   <a href="https://www.youtube.com/@sunixzo" target="_blank">
@@ -53,7 +56,7 @@
 
 ---
 
-## 🐍 Contribution Graph  
+## Contribution Graph  
 
 <p align="center">
   <picture>
@@ -65,7 +68,7 @@
 
 ---
 
-## 🎯 Profile Visitors  
+## Profile Visitors  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=salmansync&color=blue&style=for-the-badge" />
@@ -73,4 +76,6 @@
 
 ---
 
-⭐️ From [Salman](https://github.com/salmansync) — *Making ideas alive with code!*
+<div align="center">
+  <em>From Salman — Making ideas alive with code.</em>
+</div>
