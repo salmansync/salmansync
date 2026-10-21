@@ -20,7 +20,7 @@
 .mono{font-family:Consolas,'SF Mono',Menlo,'Courier New',monospace}
 .eyebrow{font-size:11.5px;font-weight:700;fill:#c084fc;letter-spacing:4.5px}
 .name{font-size:46px;font-weight:800;fill:url(#nameGrad);letter-spacing:.25px}
-.role{font-size:18px;font-weight:700;fill:#94a3b8;letter-spacing:5.5px}
+.role{font-size:16px;font-weight:700;fill:#94a3b8;letter-spacing:3.5px}
 .code{font-size:14.5px;fill:#cbd5e1}
 .ln{font-size:13px;fill:#64748b}
 .kw{fill:#f472b6}.pr{fill:#38bdf8}.st{fill:#34d399}.pn{fill:#a78bfa}
@@ -44,7 +44,7 @@
 .fr,.fl,.fu{animation:flow var(--d) var(--t) linear infinite}
 .fr{--x:1320px;--y:0px}.fl{--x:-1320px;--y:0px}.fu{--x:0px;--y:-860px}
 
-/* Logo Border Animation CSS (Fixed to avoid GitHub Camo stripping it) */
+/* Logo Border Animation CSS */
 .icon-border {
   fill: none;
   stroke-width: 2px;
