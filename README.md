@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- DYNAMIC ANIMATED HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=121b2d&height=250&section=header&text=Md.%20Salman%20Farsi&fontSize=44&fontColor=38bdf8&fontAlignY=36&desc=Full-Stack%20Web%20Engineer%20%7C%20Hardware%20Enthusiast%20%7C%20AI%20Driven&descAlignY=58&descColor=94a3b8&descSize=16" alt="Md. Salman Farsi, Full-Stack Web Engineer" width="100%" />
+<img src="banner.svg" alt="Md. Salman Farsi, Full-Stack Web Engineer" width="100%" />
 
 <br><br>
 
