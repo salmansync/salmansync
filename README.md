@@ -1,11 +1,14 @@
 <div align="center">
 
+  <!-- New Dynamic Violet Cyber Banner -->
   <img src="banner.svg" alt="Md. Salman Farsi, Full-Stack Web Engineer" width="100%" />
 
   <br><br>
-  
+
   <!-- Header Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&color=8A2BE2&lines=Hello+World!;Hi,+I'm+Salman+Farsi!;A+Passionate+CS+%26+Tech+Student;Exploring+Software+Development;Web+Development+%7C+Java+%7C+Python;UI%2FUX+Design+Enthusiast;Always+Learning+%26+Improving"/>
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&color=8A2BE2&lines=Hello+World!;Hi,+I'm+Salman+Farsi!;A+Passionate+CS+%26+Tech+Student;Exploring+Software+Development;Web+Development+%7C+Java+%7C+Python;UI%2FUX+Design+Enthusiast;Always+Learning+%26+Improving"/>
+  </h1>
 
 </div>
 
@@ -24,8 +27,9 @@
 ## 💻 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,python,java,github,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,nodejs,express,python,java,github,git,vscode,arduino" />
 </p>
+
 
 ## 🌐 Connect with Me  
 
