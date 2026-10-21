@@ -76,6 +76,5 @@ I am a Full-Stack Web Engineer and Content Creator focused on building modern, s
 
 ---
 
-<div align="center">
   ⭐️ From [Salman](https://github.com/salmansync) — *Making ideas alive with code!*
-</div>
+
