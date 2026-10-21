@@ -11,6 +11,13 @@
 <rect id="ib" width="60" height="60" rx="14" />
 <path id="sh" d="M6 4h28l-2.5 27L20 36 8.5 31z" />
 <path id="sh2" d="M20 6.5V34l9.6-3.3L31.8 6.5z" />
+
+<!-- Floating Programming Symbols -->
+<path id="s-code" d="M10 8L4 14l6 6M18 8l6 6-6 6M15 6l-4 16"/>
+<path id="s-brace" d="M12 4C8 4 9 8 9 11c0 2-2 3-4 3 2 0 4 1 4 3 0 3-1 7 3 7M16 4c4 0 3 4 3 7 0 2 2 3 4 3-2 0-4 1-4 3 0 3 1 7-3 7"/>
+<path id="s-bracket" d="M11 4H6v20h5M17 4h5v20h-5"/>
+<path id="s-slash" d="M11 22L16 6M19 22l5-16"/>
+
 <style>
 .sans{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
 .mono{font-family:Consolas,'SF Mono',Menlo,'Courier New',monospace}
@@ -32,12 +39,20 @@
 .breath{animation:breath 5s ease-in-out infinite alternate}
 .cursor{animation:blink 1.2s steps(1) infinite}
 .bar,.eline{transform-box:fill-box;transform-origin:left;animation:grow 1s cubic-bezier(.2,.8,.2,1) both}
+
+/* Floating Symbols CSS */
+.gl{fill:none;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round;opacity:.15}
+.a{stroke:#c084fc}.b{stroke:#38bdf8}
+.fr,.fl,.fu{animation:flow var(--d) var(--t) linear infinite}
+.fr{--x:1320px;--y:0px}.fl{--x:-1320px;--y:0px}.fu{--x:0px;--y:-860px}
+
 @keyframes rise{to{opacity:1}}
 @keyframes drift{from{transform:translate(-20px,0)}to{transform:translate(20px,10px)}}
 @keyframes sway{from{transform:translateX(-30px)}to{transform:translateX(30px)}}
 @keyframes breath{from{opacity:.45}to{opacity:.85}}
 @keyframes blink{50%{opacity:0}}
 @keyframes grow{from{transform:scaleX(0)}}
+@keyframes flow{0%{transform:translate(0,0);opacity:0}8%,92%{opacity:1}100%{transform:translate(var(--x),var(--y));opacity:0}}
 </style>
 </defs>
 <rect width="1200" height="400" fill="url(#bg)" />
@@ -48,6 +63,20 @@
 <circle class="blob2" cx="210" cy="350" r="180" fill="url(#orbIndigo)" />
 <path class="wave1" d="M-80 345C150 305 350 385 600 345S1050 305 1280 345V400H-80z" fill="#a855f7" opacity=".08" />
 <path class="wave2" d="M-80 368C200 335 400 395 650 365S1000 340 1280 368V400H-80z" fill="#38bdf8" opacity=".08" />
+
+<!-- Floating Symbols Elements -->
+<g class="gl" transform="scale(1.5) translate(0, -30)">
+<use href="#s-code" class="fr a" x="-50" y="40" style="--d:46s;--t:-5s"/>
+<use href="#s-brace" class="fr b" x="-50" y="110" style="--d:55s;--t:-24s"/>
+<use href="#s-slash" class="fr a" x="-50" y="190" style="--d:60s;--t:-41s"/>
+<use href="#s-bracket" class="fl b" x="850" y="60" style="--d:50s;--t:-8s"/>
+<use href="#s-code" class="fl a" x="850" y="150" style="--d:58s;--t:-30s"/>
+<use href="#s-brace" class="fl b" x="850" y="240" style="--d:64s;--t:-18s"/>
+<use href="#s-bracket" class="fu a" x="350" y="380" style="--d:40s;--t:-9s"/>
+<use href="#s-slash" class="fu b" x="550" y="380" style="--d:46s;--t:-28s"/>
+<use href="#s-code" class="fu a" x="750" y="380" style="--d:52s;--t:-42s"/>
+</g>
+
 <g class="in" style="animation-delay:.1s">
 <rect class="eline" x="70" y="75" width="28" height="2" rx="1" fill="url(#accent)" style="animation-delay:.1s" />
 <text class="sans eyebrow" x="110" y="80">SOFTWARE DEVELOPMENT &#183; AI DRIVEN</text>
