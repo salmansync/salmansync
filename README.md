@@ -27,9 +27,9 @@ I am a Full-Stack Web Developer and Content Creator focused on building modern, 
 ## Tech Stack  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,nextjs,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=express,python,java,mongodb,github,git,vscode,arduino" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,java,kotlin,github,git,vscode,arduino" />
 </div>
 
 <br>
