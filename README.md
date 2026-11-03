@@ -30,6 +30,7 @@ I am a Full-Stack Web Developer and Content Creator focused on building modern, 
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=nodejs,python,java,kotlin,github,git,vscode,arduino" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd" />
 </div>
 
 <br>
